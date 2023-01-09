@@ -5,7 +5,7 @@ I’m a computer science graduate specializing in Artificial Intelligence at Uni
 
 I am passionate about learning emerging technologies and problem solving. You throw a problem at me, I wrap my head around it and I try my best to crack it! I love to automate processes and build softwares using AI. I also have experience in developing web and mobile applications using reactJS, react-native, HTML, CSS, PHP, Bootstrap. 
 
-- 📫 Fell free to reach me **sureshkj@uwindsor.ca**
+- 📫 Feel free to reach me **sureshkj@uwindsor.ca**
 
 
 <h3 align="left">Connect with me:</h3>
